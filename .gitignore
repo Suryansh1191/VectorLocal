@@ -1,0 +1,46 @@
+# --- macOS System Files ---
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# --- LLM Model ----------
+PromptLocal/Models/qwen2.5-3b-4bit
+
+# --- Xcode ---
+# User settings (window state, breakpoints, open files)
+xcuserdata/
+
+# Build artifacts and derived data
+DerivedData/
+build/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Xcode 8 and earlier compatibility (optional)
+*.xcscmblueprint
+*.xccheckout
+
+# Xcode project settings
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+# Code Injection specific
+iOSInjectionProject/
+
+# --- Swift Package Manager ---
+.build/
+# Note: Keep Package.resolved committed (it acts like a lock file)
+# Packages/ (Old SPM)
+
+# --- Other ---
+*.moved-aside
+*.xcuserstate
