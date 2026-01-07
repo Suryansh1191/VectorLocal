@@ -1,11 +1,11 @@
-# LocalVector: Offline PDF Intelligence
+# VectorLocal: Offline PDF Intelligence
 
 **A native Swift based macOS application for chatting with and summarizing massive documents (100+ pages) locally on Apple Silicon.**
 
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-macOS%2014.0+-lightgrey?style=flat-square) ![Engine](https://img.shields.io/badge/MLX-Apple_Silicon_Optimized-blue?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 ### 🚀 Overview
-**LocalVector** is a high-performance macOS app that brings Large Language Model (LLM) and RAG capabilities to your local documents. Unlike web-based tools, this app processes sensitive PDFs entirely on-device using the **MLX** framework for running **Qwen 2.5-3B** mode on-device and uses CoreML for running *all-MiniLM-L6-v2* embedding for creating vector-based embedding. 
+**VectorLocal** is a high-performance macOS app that brings Large Language Model (LLM) and RAG capabilities to your local documents. Unlike web-based tools, this app processes sensitive PDFs entirely on-device using the **MLX** framework for running **Qwen 2.5-3B** mode on-device and uses CoreML for running *all-MiniLM-L6-v2* embedding for creating vector-based embedding. 
 
 ### ✨ Key Features
 
